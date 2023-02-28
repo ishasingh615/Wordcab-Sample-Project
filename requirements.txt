@@ -1,4 +1,0 @@
-streamlit 
-requests 
-pymongo
-python-dotenv
